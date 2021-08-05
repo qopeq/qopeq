@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qopeq
-- 👀 I’m interested in space exploration, engineering, dogs breading, innovations and lot more.
+- 👀 I’m interested in space exploration, engineering, dogs(got FCI kennel), innovations and lot more.
 - 🌱 I’m currently learning Python and C++!
 - 💞️ I’m looking to collaborate on anything that will take my skill to another level.
 - 💱 Amateur ETH and Chia miner.
